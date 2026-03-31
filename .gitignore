@@ -1,0 +1,9 @@
+# Ignore large files that exceed GitHub's 100MB limit
+Amazon-Product-Analysis/ratings_Electronics (1).csv
+Amazon-Product-Analysis/Amazon_Product_Analysis.pbix
+
+# Ignore personal document
+Offer-Letter.pdf
+
+# OS generated files
+desktop.ini
